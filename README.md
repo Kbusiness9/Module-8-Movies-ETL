@@ -1,7 +1,4 @@
-# Module-8-Movies-ETL
-ETL Speed Run
-# Movies-ETL
-Module 8
+
 # Module 8 challenge
 This challenge is to read the data from source files and then perform data cleaning/ transformation and finally load into the database
 ### How to run challenge.py
